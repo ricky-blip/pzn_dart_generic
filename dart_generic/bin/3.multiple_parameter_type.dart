@@ -1,4 +1,5 @@
 class Pair<R, I, C> {
+  //cara membuat multiple parameter type
   R first;
   I second;
   C third;
